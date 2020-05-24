@@ -1,0 +1,1846 @@
+.mediaViewInfo {
+	--web-view-name: Story 5 - Download Dateien- SCREEN 1;
+	--web-view-id: Story_5___Download_Dateien__SCREEN_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Story_5___Download_Dateien__SCREEN_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Story_5___Download_Dateien__SCREEN_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1492px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Story 5 - Download Dateien- SCREEN 1;
+	--web-view-id: Story_5___Download_Dateien__SCREEN_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.Background {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+}
+#Sidebar {
+	position: absolute;
+	width: 300px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.SidebarBG {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+}
+#Abmelden {
+	position: absolute;
+	width: 300px;
+	height: 75.5px;
+	left: 0px;
+	top: 1416.5px;
+	overflow: visible;
+}
+#Button {
+	position: absolute;
+	width: 300px;
+	height: 75px;
+	left: 0px;
+	top: 0.5px;
+	overflow: visible;
+}
+#Abmelden_tq {
+	position: absolute;
+	left: 139.514px;
+	top: 28px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(249,71,48,1);
+	letter-spacing: 1px;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+.power_off {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 30.484px;
+	left: 59px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.seperator {
+	overflow: visible;
+	position: absolute;
+	width: 251px;
+	height: 1px;
+	left: 24.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#E_mail {
+	position: absolute;
+	width: 274.5px;
+	height: 183px;
+	left: 25px;
+	top: 1183px;
+	overflow: visible;
+}
+#E_mail_tv {
+	position: absolute;
+	width: 274.5px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#E_mail_tw {
+	position: absolute;
+	width: 120.146px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#E_mail_tx {
+	position: absolute;
+	left: 58.146px;
+	top: 1px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.inbox {
+	overflow: visible;
+	position: absolute;
+	width: 35.28px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sp_Line {
+	opacity: 0.128;
+}
+.sp_Line {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 177.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Posteingang {
+	position: absolute;
+	width: 243px;
+	height: 26px;
+	left: 15px;
+	top: 71px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 8px;
+}
+#Posteingang_t {
+	position: absolute;
+	left: 30px;
+	top: 4px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Not {
+	position: absolute;
+	width: 41px;
+	height: 26px;
+	left: 202px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+#ID135 {
+	position: absolute;
+	left: 10px;
+	top: 6px;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Gesendete_Elemente {
+	position: absolute;
+	width: 206px;
+	height: 18px;
+	left: 15px;
+	top: 118px;
+	overflow: visible;
+}
+.Rectangle_1_t {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Gesendete_Elemente_t {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Entw_rfe {
+	position: absolute;
+	width: 243px;
+	height: 26px;
+	left: 15px;
+	top: 157px;
+	overflow: visible;
+}
+.Rectangle_1_ua {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 8px;
+}
+#Entw_rfe_ub {
+	position: absolute;
+	left: 30px;
+	top: 4px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Not_uc {
+	position: absolute;
+	width: 41px;
+	height: 26px;
+	left: 202px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_ud {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+#ID25 {
+	position: absolute;
+	left: 14px;
+	top: 6px;
+	overflow: visible;
+	width: 14px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Kalender {
+	position: absolute;
+	width: 271.205px;
+	height: 141px;
+	left: 28.295px;
+	top: 987px;
+	overflow: visible;
+}
+#Kalender_ug {
+	position: absolute;
+	width: 271.205px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Kalender_uh {
+	position: absolute;
+	width: 141.85px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.calendar_alt {
+	overflow: visible;
+	position: absolute;
+	width: 29.705px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Kalender_uj {
+	position: absolute;
+	left: 54.85px;
+	top: 6.52px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#sp_Line_uk {
+	opacity: 0.128;
+}
+.sp_Line_uk {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 174.205px;
+	top: 17.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Stundenplan {
+	position: absolute;
+	width: 137px;
+	height: 18px;
+	left: 11.705px;
+	top: 80px;
+	overflow: visible;
+}
+.Rectangle_1_um {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Stundenplan_un {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Kalender_Verwaltung {
+	position: absolute;
+	width: 207px;
+	height: 18px;
+	left: 11.705px;
+	top: 123px;
+	overflow: visible;
+}
+.Rectangle_1_up {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Vorlesungsverzeichnis {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Study {
+	position: absolute;
+	width: 277.5px;
+	height: 266px;
+	left: 22px;
+	top: 671px;
+	overflow: visible;
+}
+#Study_us {
+	position: absolute;
+	width: 277.5px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Study_ut {
+	position: absolute;
+	width: 117.146px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.graduation_cap {
+	overflow: visible;
+	position: absolute;
+	width: 43.75px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Study_uv {
+	position: absolute;
+	left: 61.146px;
+	top: 2px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#sp_Line_uw {
+	opacity: 0.128;
+}
+.sp_Line_uw {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 180.5px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Abgaben {
+	position: absolute;
+	width: 104px;
+	height: 18px;
+	left: 18px;
+	top: 119px;
+	overflow: visible;
+}
+.Rectangle_1_uy {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Abgaben_uz {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Web_Drive {
+	position: absolute;
+	width: 116px;
+	height: 18px;
+	left: 18px;
+	top: 162px;
+	overflow: visible;
+}
+.Rectangle_1_u {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Web_Drive_u {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Bookmarks___Notizen {
+	position: absolute;
+	width: 209px;
+	height: 18px;
+	left: 18px;
+	top: 205px;
+	overflow: visible;
+}
+.Rectangle_1_va {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Bookmarks___Notizen_u {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Forum {
+	position: absolute;
+	width: 83px;
+	height: 18px;
+	left: 18px;
+	top: 248px;
+	overflow: visible;
+}
+.Rectangle_1_vb {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Meine_veranstaltungen {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Kurse {
+	position: absolute;
+	width: 259.5px;
+	height: 18px;
+	left: 18px;
+	top: 76px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_3____bersicht_Datail___SCREEN_1.html;
+	cursor: pointer;
+}
+.Rectangle_1_vc {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Kurse_vb {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(68,190,170,1);
+	letter-spacing: 1px;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 1px;
+	left: 239.5px;
+	top: 9.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SPACES {
+	position: absolute;
+	width: 271.5px;
+	height: 266px;
+	left: 28px;
+	top: 355px;
+	overflow: visible;
+}
+#Spaces {
+	position: absolute;
+	width: 271.5px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Spaces_vf {
+	position: absolute;
+	width: 134.146px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.th_large {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SPACES_vh {
+	position: absolute;
+	left: 55.146px;
+	top: 2px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#sp_Line_vi {
+	opacity: 0.128;
+}
+.sp_Line_vi {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 174.5px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vorlesungsverzeichnis_vj {
+	position: absolute;
+	width: 220px;
+	height: 18px;
+	left: 12px;
+	top: 119px;
+	overflow: visible;
+}
+.Rectangle_1_vk {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Vorlesungsverzeichnis_vl {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Einrichtungen {
+	position: absolute;
+	width: 147px;
+	height: 18px;
+	left: 12px;
+	top: 162px;
+	overflow: visible;
+}
+.Rectangle_1_vn {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Einrichtungen_vo {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Veranstaltungen {
+	position: absolute;
+	width: 167px;
+	height: 18px;
+	left: 12px;
+	top: 205px;
+	overflow: visible;
+}
+.Rectangle_1_vq {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Meine_veranstaltungen_vr {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Pr_fungen {
+	position: absolute;
+	width: 117px;
+	height: 18px;
+	left: 12px;
+	top: 248px;
+	overflow: visible;
+}
+.Rectangle_1_vt {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Meine_veranstaltungen_vu {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Studieng_nge {
+	position: absolute;
+	width: 147px;
+	height: 18px;
+	left: 12px;
+	top: 76px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_1____bersicht_1__Studieng_nge_____SCREEN_1.html;
+	cursor: pointer;
+}
+.Rectangle_1_vw {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Studieng_nge_vx {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Top_Menu {
+	position: absolute;
+	width: 220px;
+	height: 161px;
+	left: 40px;
+	top: 144px;
+	overflow: visible;
+}
+#Profile {
+	position: absolute;
+	width: 220px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Muster_Mann {
+	position: absolute;
+	left: 68px;
+	top: 14px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#ProfilePic {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.profilePicBG {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#MM {
+	position: absolute;
+	left: 10px;
+	top: 16px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Einstellungen {
+	position: absolute;
+	width: 145px;
+	height: 18px;
+	left: 0px;
+	top: 143px;
+	overflow: visible;
+}
+#Einstellungen_v {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#_bersicht {
+	position: absolute;
+	width: 157px;
+	height: 18px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+.Rectangle_1_v {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+#Ihre__bersicht_ {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#Group_16 {
+	position: absolute;
+	width: 1419px;
+	height: 359px;
+	left: 395px;
+	top: 261px;
+	overflow: visible;
+}
+#Group_12 {
+	position: absolute;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.BG {
+	position: absolute;
+	overflow: visible;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Group_7 {
+	position: absolute;
+	width: 544.416px;
+	height: 50px;
+	left: 52.47px;
+	top: 25px;
+	overflow: visible;
+}
+.file_pdf {
+	overflow: visible;
+	position: absolute;
+	width: 27.806px;
+	height: 37.082px;
+	left: 0px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_19 {
+	position: absolute;
+	width: 481px;
+	height: 50px;
+	left: 63.416px;
+	top: 0px;
+	overflow: visible;
+}
+#Anhang_1___FOLIEN_UCPM_Usabili {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 364px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Pdf___2_6_MB___24__M_r_2020__1 {
+	position: absolute;
+	left: 0px;
+	top: 32px;
+	overflow: visible;
+	width: 482px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Group_13 {
+	position: absolute;
+	width: 228.55px;
+	height: 55px;
+	left: 1140.232px;
+	top: 23px;
+	overflow: visible;
+}
+.cloud_download_alt {
+	overflow: visible;
+	position: absolute;
+	width: 40.783px;
+	height: 28.548px;
+	left: 187.768px;
+	top: 12.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_34 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 156.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_35 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 61.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.info_circle {
+	overflow: visible;
+	position: absolute;
+	width: 31.546px;
+	height: 31.546px;
+	left: 92.768px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.play {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 37.717px;
+	left: 0px;
+	top: 8.964px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_4___Media_Datail___SCREEN_1.html;
+	cursor: pointer;
+}
+#Group_11 {
+	position: absolute;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 130px;
+	overflow: visible;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8 {
+	position: absolute;
+	width: 565.416px;
+	height: 53px;
+	left: 52.47px;
+	top: 23px;
+	overflow: visible;
+}
+.file_pdf_wr {
+	overflow: visible;
+	position: absolute;
+	width: 27.806px;
+	height: 37.082px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_20 {
+	position: absolute;
+	width: 502px;
+	height: 53px;
+	left: 63.416px;
+	top: 0px;
+	overflow: visible;
+}
+#Summary_Vorlesung {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Pdf___14_1_MB___24__M_r_2020__ {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 503px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Group_17 {
+	position: absolute;
+	width: 228.55px;
+	height: 55px;
+	left: 1140.232px;
+	top: 23px;
+	overflow: visible;
+}
+.cloud_download_alt_ww {
+	overflow: visible;
+	position: absolute;
+	width: 40.783px;
+	height: 28.548px;
+	left: 187.768px;
+	top: 12.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_34_wx {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 156.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_35_wy {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 61.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.info_circle_wz {
+	overflow: visible;
+	position: absolute;
+	width: 31.546px;
+	height: 31.546px;
+	left: 92.768px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.play_w {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 37.717px;
+	left: 0px;
+	top: 8.964px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_4___Media_Datail___SCREEN_1.html;
+	cursor: pointer;
+}
+#Group_21 {
+	position: absolute;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 259px;
+	overflow: visible;
+}
+.Rectangle_23_w {
+	position: absolute;
+	overflow: visible;
+	width: 1419px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8_w {
+	position: absolute;
+	width: 776.447px;
+	height: 53px;
+	left: 52.439px;
+	top: 23px;
+	overflow: visible;
+}
+.file_video {
+	overflow: visible;
+	position: absolute;
+	width: 27.811px;
+	height: 37.082px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_20_w {
+	position: absolute;
+	width: 713px;
+	height: 53px;
+	left: 63.447px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1_0_Usability___Ein_Leistung {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Mp4___Einf_hrung_in_die_Begrif {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 714px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#Group_17_w {
+	position: absolute;
+	width: 228.55px;
+	height: 55px;
+	left: 1140.232px;
+	top: 23px;
+	overflow: visible;
+}
+.cloud_download_alt_w {
+	overflow: visible;
+	position: absolute;
+	width: 40.783px;
+	height: 28.548px;
+	left: 187.768px;
+	top: 12.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_34_xa {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 156.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_35_xb {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 55px;
+	left: 61.268px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.info_circle_xc {
+	overflow: visible;
+	position: absolute;
+	width: 31.546px;
+	height: 31.546px;
+	left: 92.768px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.play_xd {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 37.717px;
+	left: 0px;
+	top: 8.964px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MAIN {
+	position: absolute;
+	width: 1084px;
+	height: 26.25px;
+	left: 343px;
+	top: 155px;
+	overflow: visible;
+}
+#Main_Navbar {
+	position: absolute;
+	width: 1084px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.graduation_cap_xg {
+	overflow: visible;
+	position: absolute;
+	width: 43.75px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#caret_right {
+	opacity: 0.401;
+}
+.caret_right {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 54px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Study_xi {
+	position: absolute;
+	left: 81px;
+	top: 2px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#caret_right_xj {
+	opacity: 0.401;
+}
+.caret_right_xj {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 155px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Kurse_xk {
+	position: absolute;
+	left: 182px;
+	top: 3px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Story_3____bersicht_Datail___SCREEN_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(29,29,29,1);
+	letter-spacing: 1px;
+}
+#caret_right_xl {
+	opacity: 0.401;
+}
+.caret_right_xl {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 256px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#caret_right_xm {
+	opacity: 0.401;
+}
+.caret_right_xm {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 362px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#caret_right_xn {
+	opacity: 0.401;
+}
+.caret_right_xn {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 502px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#UCPM {
+	position: absolute;
+	left: 283px;
+	top: 3px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Story_3____bersicht_Datail___SCREEN_2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Vorl {
+	position: absolute;
+	left: 389px;
+	top: 3px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Story_3____bersicht_Datail___SCREEN_3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+#Vorl_xq {
+	position: absolute;
+	left: 529px;
+	top: 2px;
+	overflow: visible;
+	width: 556px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(68,190,170,1);
+	letter-spacing: 1px;
+}
+#Group_23 {
+	position: absolute;
+	width: 197px;
+	height: 88px;
+	left: 1643px;
+	top: 591px;
+	overflow: visible;
+}
+#Group_22 {
+	position: absolute;
+	width: 197px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	height: 76px;
+	left: 0px;
+	top: 12px;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 15px;
+	height: 13px;
+	left: 91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Download_File {
+	position: absolute;
+	left: 23px;
+	top: 41px;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Header {
+	position: absolute;
+	width: 1920px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.NavbarBG {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+#Search {
+	position: absolute;
+	width: 197px;
+	height: 30px;
+	left: 350px;
+	top: 39px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_11___Search_Function__SCREEN_1.html;
+	cursor: pointer;
+}
+.search {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Search_here_ {
+	position: absolute;
+	left: 70px;
+	top: 7px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,0.537);
+}
+#Notification {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 1813px;
+	top: 0px;
+	overflow: visible;
+}
+.Notification_BG {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+.Notification_Icon {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 34.286px;
+	left: 39px;
+	top: 36px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Semester_Button {
+	position: absolute;
+	width: 164px;
+	height: 107px;
+	left: 1650px;
+	top: 0px;
+	overflow: visible;
+}
+.BG_x {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+#Button_x {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	left: 32px;
+	top: 29px;
+	overflow: visible;
+}
+.Wrapper {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#SS_2020 {
+	position: absolute;
+	left: 16px;
+	top: 15px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+#Filter_Button {
+	position: absolute;
+	width: 167px;
+	height: 50px;
+	left: 1451px;
+	top: 29px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_11___Search_Function__SCREEN_1.html;
+	cursor: pointer;
+}
+.Wrapper_ya {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#Add_Filter {
+	position: absolute;
+	left: 72px;
+	top: 15px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.filter {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 17.067px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	opacity: 0.392;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 35px;
+	left: 52.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Logo {
+	position: absolute;
+	width: 300px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_BG {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_yg {
+	position: absolute;
+	width: 169px;
+	height: 50px;
+	left: 66px;
+	top: 29px;
+	overflow: visible;
+}

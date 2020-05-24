@@ -1,0 +1,1536 @@
+.mediaViewInfo {
+	--web-view-name: Story 1 - Übersicht 1 (Studiengänge ) - SCREEN 1;
+	--web-view-id: Story_1____bersicht_1__Studieng_nge_____SCREEN_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Story_1____bersicht_1__Studieng_nge_____SCREEN_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Story_1____bersicht_1__Studieng_nge_____SCREEN_1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1492px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Story 1 - Übersicht 1 (Studiengänge ) - SCREEN 1;
+	--web-view-id: Story_1____bersicht_1__Studieng_nge_____SCREEN_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Background {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+}
+.Sidebar_Class {
+	position: absolute;
+	width: 300px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.SidebarBG {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 1492px;
+	left: 0px;
+	top: 0px;
+}
+.Abmelden_Class {
+	position: absolute;
+	width: 300px;
+	height: 75.5px;
+	left: 0px;
+	top: 1416.5px;
+	overflow: visible;
+}
+.Button_Class {
+	position: absolute;
+	width: 300px;
+	height: 75px;
+	left: 0px;
+	top: 0.5px;
+	overflow: visible;
+}
+.Abmelden_bu_Class {
+	position: absolute;
+	left: 139.514px;
+	top: 28px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(249,71,48,1);
+	letter-spacing: 1px;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+.power_off {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 30.484px;
+	left: 59px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.seperator {
+	overflow: visible;
+	position: absolute;
+	width: 251px;
+	height: 1px;
+	left: 24.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.E_mail_Class {
+	position: absolute;
+	width: 274.5px;
+	height: 183px;
+	left: 25px;
+	top: 1183px;
+	overflow: visible;
+}
+.E_mail_bz_Class {
+	position: absolute;
+	width: 274.5px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.E_mail_b_Class {
+	position: absolute;
+	width: 120.146px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.E_mail_ba_Class {
+	position: absolute;
+	left: 58.146px;
+	top: 1px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.inbox {
+	overflow: visible;
+	position: absolute;
+	width: 35.279px;
+	height: 23.52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.sp_Line_Class {
+	opacity: 0.128;
+}
+.sp_Line {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 177.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Posteingang_Class {
+	position: absolute;
+	width: 243px;
+	height: 26px;
+	left: 15px;
+	top: 71px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 8px;
+}
+.Posteingang_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 4px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Not_Class {
+	position: absolute;
+	width: 41px;
+	height: 26px;
+	left: 202px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+.ID135_Class {
+	position: absolute;
+	left: 10px;
+	top: 6px;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Gesendete_Elemente_Class {
+	position: absolute;
+	width: 206px;
+	height: 18px;
+	left: 15px;
+	top: 118px;
+	overflow: visible;
+}
+.Rectangle_1_bb {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Gesendete_Elemente_bc_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Entw_rfe_Class {
+	position: absolute;
+	width: 243px;
+	height: 26px;
+	left: 15px;
+	top: 157px;
+	overflow: visible;
+}
+.Rectangle_1_be {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 8px;
+}
+.Entw_rfe_bf_Class {
+	position: absolute;
+	left: 30px;
+	top: 4px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Not_bg_Class {
+	position: absolute;
+	width: 41px;
+	height: 26px;
+	left: 202px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_bh {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+.ID25_Class {
+	position: absolute;
+	left: 14px;
+	top: 6px;
+	overflow: visible;
+	width: 14px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Kalender_Class {
+	position: absolute;
+	width: 271.205px;
+	height: 141px;
+	left: 28.295px;
+	top: 987px;
+	overflow: visible;
+}
+.Kalender_bk_Class {
+	position: absolute;
+	width: 271.205px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Kalender_bl_Class {
+	position: absolute;
+	width: 141.85px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.calendar_alt {
+	overflow: visible;
+	position: absolute;
+	width: 29.705px;
+	height: 33.948px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Kalender_bn_Class {
+	position: absolute;
+	left: 54.85px;
+	top: 6.52px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.sp_Line_bo_Class {
+	opacity: 0.128;
+}
+.sp_Line_bo {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 174.205px;
+	top: 17.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Stundenplan_Class {
+	position: absolute;
+	width: 137px;
+	height: 18px;
+	left: 11.705px;
+	top: 80px;
+	overflow: visible;
+}
+.Rectangle_1_bq {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Stundenplan_br_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Kalender_Verwaltung_Class {
+	position: absolute;
+	width: 207px;
+	height: 18px;
+	left: 11.705px;
+	top: 123px;
+	overflow: visible;
+}
+.Rectangle_1_bt {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Vorlesungsverzeichnis_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Study_Class {
+	position: absolute;
+	width: 277.5px;
+	height: 266px;
+	left: 22px;
+	top: 671px;
+	overflow: visible;
+}
+.Study_bw_Class {
+	position: absolute;
+	width: 277.5px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Study_bx_Class {
+	position: absolute;
+	width: 117.146px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.graduation_cap {
+	overflow: visible;
+	position: absolute;
+	width: 43.75px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Study_bz_Class {
+	position: absolute;
+	left: 61.146px;
+	top: 2px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.sp_Line_b_Class {
+	opacity: 0.128;
+}
+.sp_Line_b {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 180.5px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Kurse_Class {
+	position: absolute;
+	width: 78px;
+	height: 18px;
+	left: 18px;
+	top: 76px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_3____bersicht_Datail___SCREEN_1.html;
+	cursor: pointer;
+}
+.Rectangle_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Kurse_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Abgaben_Class {
+	position: absolute;
+	width: 104px;
+	height: 18px;
+	left: 18px;
+	top: 119px;
+	overflow: visible;
+}
+.Rectangle_1_ba {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Abgaben_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Web_Drive_Class {
+	position: absolute;
+	width: 116px;
+	height: 18px;
+	left: 18px;
+	top: 162px;
+	overflow: visible;
+}
+.Rectangle_1_bc {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Web_Drive_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Bookmarks___Notizen_Class {
+	position: absolute;
+	width: 209px;
+	height: 18px;
+	left: 18px;
+	top: 205px;
+	overflow: visible;
+}
+.Rectangle_1_bd {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Bookmarks___Notizen_bc_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Forum_Class {
+	position: absolute;
+	width: 83px;
+	height: 18px;
+	left: 18px;
+	top: 248px;
+	overflow: visible;
+}
+.Rectangle_1_bf {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Meine_veranstaltungen_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.SPACES_Class {
+	position: absolute;
+	width: 271.5px;
+	height: 266px;
+	left: 28px;
+	top: 355px;
+	overflow: visible;
+}
+.Spaces_Class {
+	position: absolute;
+	width: 271.5px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Spaces_bi_Class {
+	position: absolute;
+	width: 134.146px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.th_large {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.SPACES_bk_Class {
+	position: absolute;
+	left: 55.146px;
+	top: 2px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.sp_Line_bl_Class {
+	opacity: 0.128;
+}
+.sp_Line_bl {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 174.5px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Studieng_nge_Class {
+	position: absolute;
+	width: 259.5px;
+	height: 18px;
+	left: 12px;
+	top: 76px;
+	overflow: visible;
+}
+.Rectangle_1_bn {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Studieng_nge_bo_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(70,190,170,1);
+	letter-spacing: 1px;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 1px;
+	left: 239.5px;
+	top: 9.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Vorlesungsverzeichnis_bq_Class {
+	position: absolute;
+	width: 220px;
+	height: 18px;
+	left: 12px;
+	top: 119px;
+	overflow: visible;
+}
+.Rectangle_1_br {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Vorlesungsverzeichnis_bs_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Einrichtungen_Class {
+	position: absolute;
+	width: 147px;
+	height: 18px;
+	left: 12px;
+	top: 162px;
+	overflow: visible;
+}
+.Rectangle_1_bu {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Einrichtungen_bv_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Veranstaltungen_Class {
+	position: absolute;
+	width: 167px;
+	height: 18px;
+	left: 12px;
+	top: 205px;
+	overflow: visible;
+}
+.Rectangle_1_bx {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Meine_veranstaltungen_by_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Pr_fungen_Class {
+	position: absolute;
+	width: 117px;
+	height: 18px;
+	left: 12px;
+	top: 248px;
+	overflow: visible;
+}
+.Rectangle_1_bg {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Meine_veranstaltungen_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Top_Menu_Class {
+	position: absolute;
+	width: 220px;
+	height: 161px;
+	left: 40px;
+	top: 144px;
+	overflow: visible;
+}
+.Profile_Class {
+	position: absolute;
+	width: 220px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Muster_Mann_Class {
+	position: absolute;
+	left: 68px;
+	top: 14px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.ProfilePic_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.profilePicBG {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+.MM_Class {
+	position: absolute;
+	left: 10px;
+	top: 16px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+.Einstellungen_Class {
+	position: absolute;
+	width: 145px;
+	height: 18px;
+	left: 0px;
+	top: 143px;
+	overflow: visible;
+}
+.Einstellungen_b_Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+._bersicht_Class {
+	position: absolute;
+	width: 157px;
+	height: 18px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+.Rectangle_1_bh {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 4px;
+}
+.Ihre__bersicht__Class {
+	position: absolute;
+	left: 30px;
+	top: 0px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.MAIN_Class {
+	position: absolute;
+	width: 584px;
+	height: 531px;
+	left: 350px;
+	top: 155px;
+	overflow: visible;
+}
+.Bachelorstudieng_nge_Class {
+	position: absolute;
+	width: 584px;
+	height: 455px;
+	left: 0px;
+	top: 76px;
+	overflow: visible;
+}
+.Repeat_Grid_1_Class {
+	position: absolute;
+	width: 10px;
+	height: 352px;
+	left: 0px;
+	top: 5px;
+	overflow: hidden;
+}
+.Repeat_Grid_1_0_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_1_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 38px;
+	overflow: visible;
+}
+.Rectangle_5_bk {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_2_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 76px;
+	overflow: visible;
+}
+.Rectangle_5_bm {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_3_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 114px;
+	overflow: visible;
+}
+.Rectangle_5_bo {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_4_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 152px;
+	overflow: visible;
+}
+.Rectangle_5_bq {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_5_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 190px;
+	overflow: visible;
+}
+.Rectangle_5_bs {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_6_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 228px;
+	overflow: visible;
+}
+.Rectangle_5_bu {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_7_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 266px;
+	overflow: visible;
+}
+.Rectangle_5_bw {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_8_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 304px;
+	overflow: visible;
+}
+.Rectangle_5_by {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_9_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 342px;
+	overflow: visible;
+}
+.Rectangle_5_b {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.List_Class {
+	position: absolute;
+	left: 19px;
+	top: 76px;
+	overflow: visible;
+	width: 566px;
+	height: 379px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Bachelorstudieng_nge_b_Class {
+	position: absolute;
+	left: 37px;
+	top: 0px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _Bachelorstudieng_nge___SCREEN_2_.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Masterstudieng_nge_Class {
+	position: absolute;
+	left: 37px;
+	top: 38px;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _MasterStudieng_nge___SCREEN_3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.Main_Navbar_Class {
+	position: absolute;
+	width: 330px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.th_large_b {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 26.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.caret_right_Class {
+	opacity: 0.401;
+}
+.caret_right {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 47px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.SPACES_b_Class {
+	position: absolute;
+	left: 73px;
+	top: 2px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(57,57,57,1);
+	letter-spacing: 1px;
+}
+.caret_right_b_Class {
+	opacity: 0.401;
+}
+.caret_right_b {
+	overflow: visible;
+	position: absolute;
+	width: 9.719px;
+	height: 17.138px;
+	left: 169px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Studieng_nge_b_Class {
+	position: absolute;
+	left: 195px;
+	top: 2px;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(70,190,170,1);
+	letter-spacing: 1px;
+}
+.Header_Class {
+	position: absolute;
+	width: 1920px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.NavbarBG {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+.Search_Class {
+	position: absolute;
+	width: 197px;
+	height: 30px;
+	left: 350px;
+	top: 39px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_11___Search_Function__SCREEN_1.html;
+	cursor: pointer;
+}
+.search {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Search_here__Class {
+	position: absolute;
+	left: 70px;
+	top: 7px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,0.537);
+}
+.Notification_Class {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 1813px;
+	top: 0px;
+	overflow: visible;
+}
+.Notification_BG {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+.Notification_Icon {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 34.286px;
+	left: 39px;
+	top: 36px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Semester_Button_Class {
+	position: absolute;
+	width: 164px;
+	height: 107px;
+	left: 1650px;
+	top: 0px;
+	overflow: visible;
+}
+.BG {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+.Button_bk_Class {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	left: 32px;
+	top: 29px;
+	overflow: visible;
+}
+.Wrapper {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.SS_2020_Class {
+	position: absolute;
+	left: 16px;
+	top: 15px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.Filter_Button_Class {
+	position: absolute;
+	width: 167px;
+	height: 50px;
+	left: 1451px;
+	top: 29px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Story_11___Search_Function__SCREEN_1.html;
+	cursor: pointer;
+}
+.Wrapper_bo {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Add_Filter_Class {
+	position: absolute;
+	left: 72px;
+	top: 15px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 1px;
+}
+.filter {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 17.068px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_2_Class {
+	opacity: 0.392;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 35px;
+	left: 52.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Logo_Class {
+	position: absolute;
+	width: 300px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_BG {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+.Logo_bu_Class {
+	position: absolute;
+	width: 169px;
+	height: 50px;
+	left: 66px;
+	top: 29px;
+	overflow: visible;
+}
